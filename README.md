@@ -8,13 +8,6 @@ It is a custom dot matrix style clock widget for Nothing Phone with a fully tran
 
 ## 📸 Preview
 
-<!-- Add a screenshot of the widget on y
-
-https://github.com/user-attachments/assets/902dd456-dd4c-42fe-8b20-6641d857bc74
-
-<img width="1080" height="2392" alt="Screenshot_20260517-172857" src="https://github.com/user-attachments/assets/f2e4296e-fb0f-47dc-90af-ce418d320eaa" />
-our homescreen here -->
-<!-- To add: upload an image to the repo and replace the line below -->
 
 ---
 
