@@ -7,11 +7,11 @@ It is a custom dot matrix style clock widget for Nothing Phone with a fully tran
 ---
 
 ## 📸 Preview
-![Widget Preview](preview.png)
+<img src="preview.png" width="300"/>
 
 ## 🎬 Demo
 
-![Widget Demo](preview.gif)
+<img src="preview.gif" width="300"/>
 ---
 
 ## ✨ Features
