@@ -1,6 +1,13 @@
 # 🕐 Nothing Phone — Transparent Dot Matrix Clock Widget
 
-It is a custom dot matrix style clock widget for Nothing Phone with a fully transparent background. The default Nothing OS widget has a similar dot matrix style but its background is not transparent, this project fixes that and makes it blend perfectly into any wallpaper.
+It is a custom dot matrix style clock widget with a fully transparent 
+background. Originally inspired by the Nothing Phone dot matrix 
+aesthetic, this widget works on any Android device running 
+Android 8.0 (Oreo) and above.
+
+The default Nothing OS widget has a similar dot matrix style but 
+its background is not transparent — this project fixes that and 
+makes it blend perfectly into any wallpaper on any Android device.
 
 **Created by [Swapnil Majhi](https://github.com/Swapnil41)** learning UI/UX, assisted by Claude AI and Cursor AI.
 
@@ -20,7 +27,7 @@ It is a custom dot matrix style clock widget for Nothing Phone with a fully tran
 - 🌫️ Fully transparent background — blends into any wallpaper
 - ⏰ Tap the widget to open Google Clock instantly
 - 🔄 Real-time updates (requires Alarms & Reminders permission)
-- 📱 Designed specifically for Nothing Phone aesthetic
+- 📱 Designed specifically for Nothing Phone aesthetic but works of all andoird devices till Android 8 (Oreo)
 - 🏠 Does not clutter your app drawer — invisible in home screen app list
 
 ---
