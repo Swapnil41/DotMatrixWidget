@@ -48,7 +48,7 @@ It is a custom dot matrix style clock widget for Nothing Phone with a fully tran
 
 > Without this step the widget will only show a static time and will not update in real time.
 
-1. Go to **Settings → Apps → DotMatrixWidget → Permissions**
+1. Go to **Settings → Apps → DotMatrixWidget
 2. Find **Alarms & Reminders** and toggle it **ON**
 3. The widget will now update and show the correct live time
 
