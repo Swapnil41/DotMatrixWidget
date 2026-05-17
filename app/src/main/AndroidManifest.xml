@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Minute clock updates via AlarmManager (exact when OS allows) -->
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+
+    <!-- Package visibility (API 30+): resolve Google Clock for PendingIntent / launch intent -->
+    <queries>
+        <package android:name="com.google.android.deskclock" />
+    </queries>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_widget_preview"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoDisplay">
+
+        <receiver
+            android:name=".ClockWidget"
+            android:exported="true"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.dotmatrix.widget.ACTION_MINUTE_TICK" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/clock_widget_info" />
+        </receiver>
+
+    </application>
+
+</manifest>
