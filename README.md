@@ -27,7 +27,7 @@ makes it blend perfectly into any wallpaper on any Android device.
 - 🌫️ Fully transparent background — blends into any wallpaper
 - ⏰ Tap the widget to open Google Clock instantly
 - 🔄 Real-time updates (requires Alarms & Reminders permission)
-- 📱 Designed specifically for Nothing Phone aesthetic but works of all andoird devices till Android 8 (Oreo)
+- 📱 Designed specifically for Nothing Phone aesthetic 
 - 🏠 Does not clutter your app drawer — invisible in home screen app list
 
 ---
@@ -39,6 +39,7 @@ makes it blend perfectly into any wallpaper on any Android device.
 3. Open the downloaded APK and install it
 4. The app will **NOT appear** in your home screen app list — this is normal
 5. To access app info, go to **Settings → Apps → DotMatrixWidget**
+<img src="settings-preview.gif" width="300"/>
 
 ---
 
@@ -73,6 +74,8 @@ Tapping the widget opens **Google Clock** automatically (if installed on your de
 - Cursor AI (code modification and debugging)
 - Claude AI (guidance and problem solving)
 - Java / XML
+- Kotlin<img width="720" height="1596" alt="settings-preview" src="https://github.com/user-attachments/assets/8fd7e8ff-3553-4ac4-8580-8bb7a85b1a24" />
+
 
 ---
 
