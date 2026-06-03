@@ -60,7 +60,7 @@ makes it blend perfectly into any wallpaper on any Android device.
 2. Find **Alarms & Reminders** and toggle it **ON**
 3. The widget will now update and show the correct live time
 
-<img src="settings-preview.png" width="300"/>
+<img src="settings-preview.gif" width="300"/>
 
 ---
 
