@@ -60,7 +60,7 @@ makes it blend perfectly into any wallpaper on any Android device.
 2. Find **Alarms & Reminders** and toggle it **ON**
 3. The widget will now update and show the correct live time
 
-<img src="settings-preview.gif" width="300"/>
+<img src="settings-preview.png" width="300"/>
 
 ---
 
@@ -76,7 +76,7 @@ Tapping the widget opens **Google Clock** automatically (if installed on your de
 - Cursor AI (code modification and debugging)
 - Claude AI (guidance and problem solving)
 - Java / XML
-- Kotlin<img width="720" height="1596" alt="settings-preview" src="https://github.com/user-attachments/assets/8fd7e8ff-3553-4ac4-8580-8bb7a85b1a24" />
+- Kotlin
 
 
 ---
